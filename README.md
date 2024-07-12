@@ -31,9 +31,7 @@ cd studious
 1. **Open the script**: Open `malware.py` in a text editor.
 2. **Change the file path**:
    - Locate the following line in the script:
-     ```python
-     single_file_path = r"C:\Users\USER\Desktop\ME\eicar.com"
-     ```
+          single_file_path = r"C:\Users\USER\Desktop\ME\eicar.com"
    - If your `eicar.com` file is in a different location, update the path accordingly.
 
 ### Running the Script
